@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: pimouse_ros
+Description: Description of pimouse_ros
+Version: 1.0.0
+Cflags: -I/home/ubuntu/catkin_ws/install/include
+Libs: -L/home/ubuntu/catkin_ws/install/lib 
+Requires: rospy std_msgs std_srvs message_runtime
